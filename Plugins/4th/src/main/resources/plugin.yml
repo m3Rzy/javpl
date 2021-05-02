@@ -1,0 +1,4 @@
+name: HealthBar
+version: ${project.version}
+main: healthbar.hpbar.Main
+api-version: 1.16
