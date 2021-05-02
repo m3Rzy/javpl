@@ -1,0 +1,6 @@
+name: DoubleDrops
+version: ${project.version}
+main: me.hoiboui.ddrops.Main
+api-version: 1.16
+authors: [ hoiboui ]
+description: Diamond Ores drop 2 diamonds

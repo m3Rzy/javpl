@@ -1,0 +1,5 @@
+name: CommandsForAdmins
+version: ${project.version}
+main: commands4admin.commandsforadmins.Main
+api-version: 1.16
+description: Anything commands for oppers
