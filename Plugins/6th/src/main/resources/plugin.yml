@@ -1,0 +1,4 @@
+name: MAEntity
+version: ${project.version}
+main: maentity.maentity.Main
+api-version: 1.16

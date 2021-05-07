@@ -1,0 +1,4 @@
+name: NewScoreboard
+version: ${project.version}
+main: newscoreboard.newscoreboard.Main
+api-version: 1.16

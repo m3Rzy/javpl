@@ -1,0 +1,11 @@
+name: MobArena
+version: ${project.version}
+main: mobarena.mobarena.Main
+api-version: 1.16
+commands:
+  mfp:
+    description: Server remembers first point.
+    usage: /<command>
+  msp:
+    description: Server remembers second point.
+    usage: /<command>

@@ -1,0 +1,4 @@
+name: CustomScoreBoard
+version: ${project.version}
+main: scoreboard.customscoreboard.Main
+api-version: 1.16

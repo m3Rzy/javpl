@@ -1,0 +1,9 @@
+name: CommandSpawnEntityMobs
+version: ${project.version}
+main: commandspawnentitymobs.commandspawnentitymobs.Main
+api-version: 1.16
+commands:
+  skeleton:
+    description: Spawn Skeleton
+    usage: /<command>
+
